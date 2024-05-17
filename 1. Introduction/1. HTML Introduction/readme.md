@@ -31,9 +31,7 @@ Note: Tags are meaningful texts enclosed in angle braces, like '<...>'. For exam
 ## Quick Exercise:
 Open a webpage of your choice, right-click on the browser, and select 'View Page Source,' and then you will see the HTML code for that page.
 
-
 https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/4c42b67c-5c90-4c59-9759-fac60935ce2e
-
 
 This is the code that the server sent to display the page you're currently viewing. In this tutorial, we'll learn how to write this type of code using HTML.
 

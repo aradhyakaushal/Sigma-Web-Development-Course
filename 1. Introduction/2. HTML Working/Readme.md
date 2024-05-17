@@ -6,11 +6,7 @@ When we want to access any information on the internet, we search for it using a
 
 An HTML document is created by writing code with specific tags in a code editor of your choice. The document is then saved with the '.html' extension. Once saved, the browser interprets the HTML document, reads it, and renders the web page.
 
- 
-
 ![cwh tutorial image](how-html-homeworks.png)
-
- 
 
 The text editor has the HTML code of a website. This website can now be viewed in a beautifully rendered format using a computer program known as a web browser.
 
