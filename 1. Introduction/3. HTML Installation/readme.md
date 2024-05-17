@@ -20,10 +20,7 @@ Search for "Visual Studio Code download" on Google
 Download Visual Studio Code for your Operating System. I am using Windows so I will install it for Windows
 Here is a quick video showing VS Code Installation:
 
-
 https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/2d75b032-041b-4500-96e1-f4e6ed53dd63
-
-
 
 ## Live Server Extension
 In addition, we'll be installing the Live Server extension in our Visual Studio Code editor to view live reload pages.
@@ -32,6 +29,6 @@ The Live Server extension is used to launch a local development server with a li
 
 Here is a quick video showing the installation of the VS Code 'Live Server' extension:
 
-
+https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/02bbca99-fc51-4c87-afff-814ab0c289db
 
 In the next lesson, we will start writing some code and review the document structure of HTML pages.
