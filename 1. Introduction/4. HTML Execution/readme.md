@@ -20,7 +20,7 @@ Once VS Code is open, you'll want to create a new file:
 Click on the "New File" icon in VS Code.
 Type the filename as "index.html" and hit Enter.
 
-
+https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/7a33d617-6911-480d-8ae7-e224adc78853
 
 ## Pasting the Code
 Now that your file is ready, copy the following code and paste it into your "index.html" file.
@@ -41,6 +41,10 @@ Now that your file is ready, copy the following code and paste it into your "ind
 
 Going Live using the "live server" extension
 To see your webpage in action, locate the "Go Live" icon at the bottom-right corner of your VS Code window and click it. If you don't see this icon, you probably haven't installed the Live Server extension, which we discussed in a previous tutorial.
+
+
+https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/048e0384-629a-431b-b61f-9ef4339ec638
+
 
 ![cwh tutorial image](vs-code-go-live.png)
 
