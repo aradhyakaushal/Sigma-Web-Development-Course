@@ -34,32 +34,45 @@ Almost every website uses this structure. The main content goes inside the body 
 Note: These are the essential elements for a basic HTML document: <!DOCTYPE html>, <html>, <head>, <title>, </head>, <body>, </body>, </html>
 
 ## DOCTYPE Declaration
+
 ```<!DOCTYPE html>```
+
 The <!DOCTYPE html> declaration informs the web browser about the HTML version being used. The latest version is HTML5. But if this changes in the future (maybe 10 years down the line), the doctype declaration will be helpful!
 
 ## HTML Root Element
+
 ```<html>```
+
 The <html> tag is the root element that encapsulates all the content on the page.
 
 ```</html>```
+
 The </html> tag marks the end of the <html> section.
 
 ## Head Section
+
 ```<head>```
+
 The <head> tag contains metadata and links to external resources like CSS and JavaScript files.
 
 ```</head>```
+
 The </head> tag marks the end of the <head> section.
 
 ## Title Tag
+
 ```<title>Document</title>```
+
 The <title> tag sets the title of the web page, which is displayed in the browser's title bar or tab.
 
 ## Body Tag
+
 ```<body>```
+
 The <body> tag contains the visible content of the web page. This is where text, images, and other elements go.
 
 ```</body>```
+
 The </body> tag marks the end of the visible content of the web page.
 
 Every HTML page should include at least these essential elements to define the basic layout. In upcoming tutorials, we'll dive deeper into the fascinating world of HTML.
