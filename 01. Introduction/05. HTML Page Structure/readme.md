@@ -13,6 +13,9 @@ An HTML document is structured using a set of nested tags. Each tag is enclosed 
 </html>
 This is how the title appears on an HTML page:
 ```
+## This is how the title appears on an HTML page:
+
+https://github.com/aradhyakaushal/Sigma-Web-Development-Course/assets/147573998/10e80fa1-41a7-48e6-b705-1b1c3ff64cc6
 
 ## A typical HTML page looks like this:
 
